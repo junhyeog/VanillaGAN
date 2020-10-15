@@ -12,6 +12,6 @@
 
 ## Result
 
-![image](VanillaGAN-fake-img/VanillaGAN-fake-img.gif)
+![image](./VanillaGAN-fake-img/VanillaGAN-fake-img.gif)
 ---
 ![image](./VanilllaGAN-MNIST.png)
