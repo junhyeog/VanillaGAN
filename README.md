@@ -11,5 +11,7 @@
 ```
 
 ## Result
-![image](./VanilllaGAN-MNIST.png)
+
 ![image](VanillaGAN-fake-img/VanillaGAN-fake-img.gif)
+---
+![image](./VanilllaGAN-MNIST.png)
